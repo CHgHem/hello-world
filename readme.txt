@@ -13,3 +13,4 @@ rm filename.txt #删除
 git checkout -- filename.txt #找回上个版本
 git rm filename.txt 并 commit #永久删除
  
+Greating a new branch is quick
