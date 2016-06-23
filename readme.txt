@@ -4,6 +4,7 @@ i have revised it
 hello world
 do you know how to use Git?
 ###########
+lol
 git push origin master
 git push origin master -f #强行让本地分支覆盖远程分支
 git add FILE
@@ -23,3 +24,5 @@ Git鼓励大量使用分支：
 合并某分支到当前分支：git merge <name>
 删除分支：git branch -d <name>
 ###############
+
+creating a new branch is quick AND simple
