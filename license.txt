@@ -1,3 +1,8 @@
 my office license is XXXX-XXXX
 我在另一台电脑创建了一个dev分支，并push到远程，试验多人合作
+<<<<<<< HEAD
 。。。。。。。。
+=======
+在本地dev修改并推送
+>>>>>>> 341afc5af337887cc72ef6740ed82067ad9bd24d
+在本地修改好冲突，并推送到origin
